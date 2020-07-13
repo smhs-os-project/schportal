@@ -16,3 +16,10 @@
     margin-bottom: 0;
     background-color: #333;
 }
+.slate.bottom-pt-content {
+    background-color: transparent;
+}
+.bottom-pt-content .ts.massive.header, .bottom-pt-content .ts.massive.header .sub.header {
+    color: #EFEFEF;
+
+}
