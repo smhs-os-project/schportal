@@ -1,0 +1,18 @@
+.top-menu {
+    height:60px;
+}
+.top-menu .big {
+    height:40px;
+    /* margin-top: -10px; */
+    margin-bottom: -10px;
+    margin-top: -10px;
+}
+.log-banner {
+    margin-top: -10px;
+    border-radius: 0;
+}
+.ts.slate.bottom-pt {
+    color: #EFEFEF;
+    margin-bottom: 0;
+    background-color: #333;
+}
